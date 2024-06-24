@@ -1,2 +1,2 @@
 # stopwatch
-Customized StopWatch
+Customized StopWatch with timer feature.
