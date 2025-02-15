@@ -1,9 +1,1 @@
-name: "First actions"
-on: push
-    branch:
-        main
 
-jobs:
-  test:
-    runs-on: ubuntu-latest
-    run: echo "solo leveling"
